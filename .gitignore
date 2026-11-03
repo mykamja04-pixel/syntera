@@ -1,0 +1,11 @@
+# Security: Sensitive API keys and credentials
+키.txt
+*.key
+*.token
+*.env
+
+# Temporary and OS files
+~*
+*.tmp
+Thumbs.db
+.DS_Store
